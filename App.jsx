@@ -12,7 +12,7 @@ function App() {
   //3-  Map takes a function as an argument  - we tend to use annonymous arrow => function 
   // 4 - when you give Map a function as an arguments, it will try and pass two values to that function as an arguments - the elements currently being looped over and its index
   // 5 - we hit enter the inside the arrow function brakets to make things cleaner
-  //6 - we treat the arrowfunction as if it were a components so we have to return some HTML
+  //6 - we treat the arrow function as if it were a components so we have to return some HTML
 
   return (
     <div>
